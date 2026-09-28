@@ -37,3 +37,7 @@ Associazione: https://amicidelcane.blogspot.com/p/chi-siamo_2.html
 Contatti: https://amicidelcane.blogspot.com/p/contatti.html
 Sostegno: https://amicidelcane.blogspot.com/p/chi-siamo.html
 5x1000: https://amicidelcane.blogspot.com/p/5x1000.html
+
+## Identità visiva aggiornata — 28 settembre 2026
+- Foto del cane usata come logo, fornita direttamente dall'utente: WhatsApp Image 2026-09-28 at 12.49.16.jpeg. File originale preservato in assets/logo-cane.jpg; ritaglio circolare tramite CSS.
+- Palette ispirata alla seconda immagine fornita dall'utente: verde oliva #627E41, rosa #E1B1AF e corallo #D35968. Tonalità più scure usate per il contrasto dei testi.
